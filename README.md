@@ -14,7 +14,7 @@ I am a Full Stack developer with proficiency in Java, PHP, Python, and Node.js, 
   <br>
   🎓 I graduated from University of North Texas, Department of Computer Engineering (Masters)
   <br>
-  📝  I’m currently learning Exploring Blockchain and Cybersecurity
+  📝  I’m currently Exploring Blockchain and Cybersecurity
   <br>
   💻 I love writing code and learn anythings about it
   <br>
